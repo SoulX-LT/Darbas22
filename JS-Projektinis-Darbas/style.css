@@ -1,0 +1,121 @@
+body {
+    background-color: rgb(251, 245, 221);
+    color: rgb(22, 64, 77);
+    font-family: 'Roboto';
+    font-size: 22px;
+}
+
+header {
+    background-image: url('https://no-cdn.shortpixel.ai/client/to_avif,q_lossy,ret_wait/https://shortpixel.com/blog/wp-content/uploads/2023/12/nyan-cat.gif');
+    color: white;
+    padding: 10px 0;
+    border-radius: 10px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+}
+
+nav ul li {
+    margin: 15px;
+}
+
+nav ul li a {
+    color: #fff;
+}
+
+.aboutme {
+    text-align: center;
+    padding: 20px;
+}
+
+.foto {
+    width: 150px;
+    margin-bottom: 20px;
+}
+
+.hobby {
+    text-align: center;
+    padding: 20px;
+}
+
+.foto1  {
+    border: 10px solid;
+    border-radius: 10px;
+}
+
+.movies {
+    text-align: center;
+    padding: 20px;
+}
+
+.games {
+    text-align: center;
+    padding: 20px;
+}
+
+.foto2 {
+    display: flex; 
+    justify-content: center; 
+    gap: 30px; 
+    margin-top: 20px;
+}
+
+.foto2 img{
+    width: 250px;
+    height: auto;
+}
+
+.foto3 {
+    display: flex; 
+    justify-content: center; 
+    gap: 30px; 
+    margin-top: 20px;
+}
+
+.foto3 img {
+    width: 250px;
+    height: auto;
+}
+
+.aboutme2 {
+    display: flex; 
+    justify-content: center; 
+    gap: 30px; 
+    margin-top: 20px;
+}
+
+.aboutme2 img {
+    width: 150px; 
+    height: auto; 
+}
+
+.img55 {
+    width: 500px;
+    border: 5px solid black;
+    border-radius: 20px;
+    bottom: 5px;
+}
+
+footer {
+    background-image: url('https://no-cdn.shortpixel.ai/client/to_avif,q_lossy,ret_wait/https://shortpixel.com/blog/wp-content/uploads/2023/12/nyan-cat.gif');
+    color: white;
+    text-align: center;
+    padding: 5px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    border-radius: 10px;
+}
+
+a:hover{
+    color: #f0d226;
+}
+a{
+color: black;
+text-decoration: none;
+}
+
